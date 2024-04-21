@@ -1,0 +1,6 @@
+@WebApplicationWithSharjeel_HostAddress = http://localhost:5077
+
+GET {{WebApplicationWithSharjeel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

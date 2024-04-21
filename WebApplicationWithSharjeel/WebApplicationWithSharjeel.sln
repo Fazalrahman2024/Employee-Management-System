@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationWithSharjeel", "WebApplicationWithSharjeel\WebApplicationWithSharjeel.csproj", "{A3D308F4-3024-4264-9A55-25D15B68AFB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedEntityClasses", "SharedEntityClasses\SharedEntityClasses.csproj", "{4A5DBE85-473E-45B7-86CA-47C1116923F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D308F4-3024-4264-9A55-25D15B68AFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D308F4-3024-4264-9A55-25D15B68AFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D308F4-3024-4264-9A55-25D15B68AFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D308F4-3024-4264-9A55-25D15B68AFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5DBE85-473E-45B7-86CA-47C1116923F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5DBE85-473E-45B7-86CA-47C1116923F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5DBE85-473E-45B7-86CA-47C1116923F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5DBE85-473E-45B7-86CA-47C1116923F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7016046B-7D35-444E-83BF-104F44920A4E}
+	EndGlobalSection
+EndGlobal
